@@ -893,6 +893,14 @@ select[id^="combo-"]:focus {
 .footer-links a:hover {
   color: #1e40af; /* Tailwind: text-blue-800 */
 }
+.footer {
+  background-color: #f8f9fa; /* Cor de fundo clara */
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #6c757d; /* Cor de texto cinza */
+  border-top: 1px solid #dee2e6; /* Borda superior sutil */
+}
 
 
 .draggable {
